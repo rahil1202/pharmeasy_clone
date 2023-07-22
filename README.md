@@ -22,3 +22,5 @@ The following technologies were used to build this Discord clone:
 
 
 ## Live Link
+
+https://main--sparkly-cobbler-56dbdd.netlify.app/
