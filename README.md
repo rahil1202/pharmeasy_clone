@@ -1,5 +1,3 @@
-![Screenshot 2023-07-22 171759](https://github.com/rahil1202/pharmeasy_clone/assets/104057403/b55993d4-776b-40ed-9317-492618ee3706)## pharmeasy_clone
-
 This is a PharmEasy clone built using HTML, JavaScript, and CSS. It provides a similar user interface and functionality to the popular online store platform PharmEasy.
 
 ## Technologies
