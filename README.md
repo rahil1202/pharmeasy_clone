@@ -1,5 +1,9 @@
 This is a PharmEasy clone built using HTML, JavaScript, and CSS. It provides a similar user interface and functionality to the popular online store platform PharmEasy.
 
+## Live Link
+
+https://main--sparkly-cobbler-56dbdd.netlify.app/
+
 ## Technologies
 
 The following technologies were used to build this Discord clone:
@@ -21,6 +25,4 @@ The following technologies were used to build this Discord clone:
 
 
 
-## Live Link
 
-https://main--sparkly-cobbler-56dbdd.netlify.app/
