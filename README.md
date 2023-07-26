@@ -2,7 +2,7 @@ This is a PharmEasy clone built using HTML, JavaScript, and CSS. It provides a s
 
 ## Live Link
 
-https://main--sparkly-cobbler-56dbdd.netlify.app/
+https://pharmeasyclonerahil1202.netlify.app
 
 ## Technologies
 
