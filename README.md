@@ -2,7 +2,7 @@ This is a PharmEasy clone built using HTML, JavaScript, and CSS. It provides a s
 
 ## Live Link
 
-https://pharmeasyclonerahil1202.netlify.app
+https://pharmeasyclone-rahil1202.netlify.app
 
 ## Technologies
 
