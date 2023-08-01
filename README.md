@@ -2,6 +2,11 @@
 
 Welcome to the GitHub repository of my PharmEasy Clone built using HTML, CSS, and JavaScript. This project is a web application that replicates some of the functionalities and design elements of the popular online pharmacy platform, PharmEasy.
 
+## 🌐 Live Demo
+
+Check out the live demo of the PharmEasy Clone ➡️ [Live Demo](https://pharmeasy-clone-rahil1202.netlify.app)
+
+
 ## 🚀 Features
 
 - **Medicine Catalog** 💊: Developed a user-friendly medicine catalog, allowing users to browse and search for a wide range of medicines and healthcare products.
@@ -16,9 +21,6 @@ Welcome to the GitHub repository of my PharmEasy Clone built using HTML, CSS, an
 - **CSS**: For styling the layout, colors, and typography.
 - **JavaScript**: For interactive features and functionality.
 
-## 🌐 Live Demo
-
-Check out the live demo of the PharmEasy Clone ➡️ [Live Demo](https://pharmeasy-clone-rahil1202.netlify.app)
 
 ## 🛠️ Installation
 
